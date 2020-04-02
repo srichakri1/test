@@ -1,0 +1,14 @@
+<branch name='mybranch'>
+    <stage>
+        <job name='job11' />
+        <job name='job12' />
+    </stage>
+    <stage>
+        <job name='job21' />
+        <job name='job22' />
+        <job name='job23' />
+    </stage>
+    <stage>
+        <job name='job31' />
+    </stage>
+</branch>
